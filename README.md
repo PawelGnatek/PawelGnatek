@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PawelGnatek
 - 👀 I’m interested in modern frontEnd
 - 🌱 I’m currently learning ReacJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: pawel.gnatek1@gmail.com
 
 <!---
 PawelGnatek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
