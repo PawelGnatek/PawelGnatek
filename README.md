@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PawelGnatek
-- 👀 I’m interested in modern frontEnd
+- 👀 I’m interested in modern FrontEnd
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: pawel.gnatek1@gmail.com
 
